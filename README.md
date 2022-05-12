@@ -2,7 +2,7 @@
 
 <div>
   <h1 align="center">Olá! Como Vai? 😃️</h1>
-  <h3 align="center">Meu nome é <a href="https://www.linkedin.com/in/m%C3%A1ximo-monteiro-da-silva-j%C3%BAnior-9b3591182/"><i> Máximo Júnior, </i></a> Sou um front-end Developer buscando sempre me aprimorar a cada dia  🚀.
+  <h3 align="center">Meu nome é <a href=https://www.linkedin.com/in/maximojunior/"><i> Máximo Júnior, </i></a> Sou um front-end Developer buscando sempre me aprimorar a cada dia  🚀.
 
   <p align="center"> Sou apaixonado por Tecnologia e Música, Creio que quando se unem formam uma bela dupla.🎧🔥💻 
 </div>
@@ -28,7 +28,7 @@
 
   
   
-  <a href="https://www.linkedin.com/in/m%C3%A1ximo-monteiro-da-silva-j%C3%BAnior-9b3591182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maximojunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:juniormaxmt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white " target="_blank"></a>
 </div
 
