@@ -2,7 +2,7 @@
 
 <div>
   <h1 align="center">Olá! Como Vai? 😃️</h1>
-  <h3 align="center">Meu nome é <a href=https://www.linkedin.com/in/maximojunior"><i> Máximo Júnior, </i></a> Sou um front-end Developer buscando sempre me aprimorar a cada dia  🚀.
+  <h3 align="center">Meu nome é <a href=https://www.linkedin.com/in/maximojunior/"><i> Máximo Júnior, </i></a> Sou um front-end Developer buscando sempre me aprimorar a cada dia  🚀.
 
   <p align="center"> Sou apaixonado por Tecnologia e Música, Creio que quando se unem formam uma bela dupla.🎧🔥💻 
 </div>
