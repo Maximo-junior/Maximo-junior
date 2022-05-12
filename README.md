@@ -2,7 +2,7 @@
 
 <div>
   <h1 align="center">Olá! Como Vai? 😃️</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/m%C3%A1ximo-monteiro-da-silva-j%C3%BAnior-9b3591182/"><i> Máximo Júnior</i></a> e hoje eu estudo Desenvolvimento Web Full Stack no <a href="https://programadorbr.com/"><i>Programadorbr</i></a>.Porem já fiz outros cursos, buscando sempre melhorar a cada dia. 😃️
+  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/m%C3%A1ximo-monteiro-da-silva-j%C3%BAnior-9b3591182/"><i> Máximo Júnior</i></a> e estudo Desenvolvimento Web Full Stack no <a href="https://programadorbr.com/"><i>Programadorbr</i></a>.Porem já fiz outros cursos, buscando sempre melhorar a cada dia. 😃️
   <p align="center"> Sou apaixonado por Tecnologia e Música,Creio que quando se unem formam uma boa dupla.🎧🔥💻 
 </div>
 
