@@ -2,9 +2,13 @@
 
 <div>
   <h1 align="center">Olá! Como Vai? 😃️</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/m%C3%A1ximo-monteiro-da-silva-j%C3%BAnior-9b3591182/"><i> Máximo Júnior</i></a> e estudo Desenvolvimento Web Full Stack no <a href="https://programadorbr.com/"><i>Programadorbr</i></a>.Porem já fiz outros cursos, buscando sempre melhorar a cada dia. 😃️
-  <p align="center"> Sou apaixonado por Tecnologia e Música,Creio que quando se unem formam uma boa dupla.🎧🔥💻 
+  <h3 align="center">Meu nome é <a href="https://www.linkedin.com/in/m%C3%A1ximo-monteiro-da-silva-j%C3%BAnior-9b3591182/"><i> Máximo Júnior, </i></a> Sou um front-end Developer buscando sempre me aprimorar a cada dia  🚀.
+
+  <p align="center"> Sou apaixonado por Tecnologia e Música, Creio que quando se unem formam uma bela dupla.🎧🔥💻 
 </div>
+<h4> 💻   Minha stack: HTML, CSS, JavaScript e Delphi.</h4>
+  <h4>📚 Estudando para se tornar Full stack Developer</h4>
+<h4>💬   Sobre mim: Gosto de tecnologias, de pensar em ideias inovadoras, do muito valor a família e não deixo meu café de lado ☕.</h4>
 
 <div align="center">
   <a href="https://github.com/Maximo-junior">
