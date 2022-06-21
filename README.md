@@ -7,7 +7,7 @@
 
   <h3 align="center"> Apaixonado por Tecnologia e Música, Creio que quando se unem formam uma bela dupla.🎧🔥💻 
 </div>
-<h4> 💻   Minha stack: HTML, CSS, JavaScript e Delphi.</h4>
+<h4> 💻   Minha stack: HTML, CSS, JavaScript, Bootstrap e Delphi.</h4>
   <h4>📚 Estudando para se tornar Full stack Developer</h4>
 <h4>💬   Sobre mim: Gosto de tecnologias, de pensar em ideias inovadoras, do muito valor a família e não deixo meu café de lado ☕.</h4>
 
