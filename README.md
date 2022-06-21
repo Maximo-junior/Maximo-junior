@@ -26,6 +26,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg ">
  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg ">
 <img align="center" alt="jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg ">
+<img align="center" alt="ECMAScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ECMAScript/ECMAScript-plain.svg ">
  
 <div align="center">
 
