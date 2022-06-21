@@ -24,8 +24,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg ">
- <img align="center" alt="git" height="30" width="40https://www.google.com/search?q=bootstrap+icon&tbm=isch&chips=q:bootstrap+icon,online_chips:svg:Xg1E7ud4c3w%3D&bih=625&biw=1366&rlz=1C1KNTJ_pt-BRBR974BR974&hl=pt-BR&sa=X&ved=2ahUKEwiSz-var7_4AhWtMrkGHezHA-4Q4lYoAXoECAEQIQ">
-  
+ <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg ">
+ 
 <div align="center">
 
   
