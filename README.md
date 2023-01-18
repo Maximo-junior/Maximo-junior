@@ -1,13 +1,13 @@
 
 
 <div>
-  <h1 align="center" color="blue">Olá! Como Vai? 😃️</h1>
+  <h1 align="center" >Olá! Como Vai? 😃️</h1>
   <h3 align="center">Meu nome é <i> Máximo Júnior. </i></h3>
   <h3 align="center">  Sou um front-end Developer buscando sempre me aprimorar a cada dia  🚀.</h3>
 
   <h3 align="center"> Apaixonado por Tecnologia e Música, Creio que quando se unem formam uma bela dupla.🎧🔥💻 
 </div>
-<h4> 💻   Skills:: HTML, CSS, JavaScript, Bootstrap, Jquery e Delphi.</h4>
+<h4> 💻   Skills:: HTML, CSS, JavaScript, Bootstrap, Sass, React.</h4>
   <h4>📚 Estudando para se tornar Full stack Developer</h4>
 <h4>💬   Sobre mim: Gosto de tecnologias, de pensar em ideias inovadoras, do muito valor a família e não deixo meu café de lado ☕.</h4>
 
