@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Maximo-junior&show_icons=true&count_private=true&hide_border=true&title_color=00FF19&icon_color=00FF19&text_color=FFFFFF&bg_color=0d1117" alt="Máximo Júnior github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximo-junior&layout=compact&hide_border=true&title_color=00FF19&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maximo-junior&show_icons=true&count_private=true&hide_border=true&title_color=00FF19&icon_color=00FF19&text_color=FFFFFF&bg_color=0d1117" alt="Máximo Júnior github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximo-junior&layout=compact&hide_border=true&title_color=00FF19&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Maximo-junior&theme=gotham)
